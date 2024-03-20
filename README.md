@@ -2,7 +2,7 @@
 I'm a 21-year-old developer based in Germany, and I'm passionate about turning ideas into digital reality.
 
 ## :package: Toolbox
-**Frontend Development:** `React` `JavaScript` `HTML` `CSS`
+**Frontend Development:** `React` `JavaScript` `HTML` `CSS` `Tailwind`
 <br>
 
 **Version Control:** `Git`
