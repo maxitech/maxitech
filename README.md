@@ -3,7 +3,7 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about turning i
 - Check out my [website](https://maxportfoliosite.netlify.app/) to learn more about me.
 
 ## :package: Toolbox
-**Frontend Development:** `React` `JavaScript` `HTML` `CSS` `Tailwind`
+**Frontend Development:** `React` `JavaScript` `HTML` `CSS` `Tailwind` `Shadcn/ui`
 <br>
 
 **Version Control:** `Git`
