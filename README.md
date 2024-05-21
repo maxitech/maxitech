@@ -4,7 +4,7 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about turning i
 
 ## :package: Toolbox
  `React` `JavaScript` `HTML` `CSS` `Tailwind` `Shadcn/ui`
- `Git``React Router` `REST API` `Hooks` `Vite` `A11y`
+ `Git` `React Router` `REST API` `Hooks` `Vite` `A11y`
  <br>
  <br>
  <br>
