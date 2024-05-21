@@ -3,9 +3,9 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about turning i
 - Check out my [website](https://maxportfoliosite.netlify.app/) to learn more about me.
 
 ## :package: Toolbox
- `React` `JavaScript` `HTML` `CSS` `Tailwind` `Shadcn/ui`
- `Git` `React Router` `REST API` `Hooks` `Vite` `A11y`
+ `React` `JavaScript` `HTML` `CSS` `Tailwind` `Shadcn/ui` <br>
  <br>
+ `Git` `React Router` `REST API` `Hooks` `Vite` `A11y`
  <br>
  <br>
 
