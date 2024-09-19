@@ -1,6 +1,6 @@
-### Hey, I'm Max 👋🏼
+## Hey, I'm Max 👋🏼
 I'm a 21-year-old developer based in Germany, and I'm passionate about turning ideas into digital reality.
-- Check out my [website](https://maxportfoliosite.netlify.app/) to learn more about me.
+##### Check out my [website](https://maxportfoliosite.netlify.app/) to learn more about me.
 
 <br/>
 <br/>
