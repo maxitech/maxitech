@@ -1,5 +1,5 @@
 ### Hey, I'm Max 👋🏼
-I'm a 21-year-old developer based in Germany, and I'm passionate about turning ideas into digital reality.
+I'm a 22-year-old developer based in Germany, and I'm passionate about turning ideas into digital reality.
 ##### Check out my <a href="https://maxportfoliosite.netlify.app/" target="_blank">website</a> to learn more about me.
 
 <br/>
