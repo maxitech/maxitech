@@ -1,6 +1,6 @@
 <p align="left">
 <a href="https://github.com/maxitech">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=200&multiline=true&width=500&height=80&lines=print%28%22Software+Developer%22%29;Python | C%2B%2B | C%23 | JavaScript/TypeScript;Frontend | APIs | Robotics+%26+Embedded+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&multiline=true&width=500&height=80&lines=print%28%22Software+Developer%22%29;Python | C%2B%2B | C%23 | JavaScript/TypeScript;Frontend | APIs | Robotics+%26+Embedded+Systems" alt="Typing SVG" />
 </a>
 </p>
 
