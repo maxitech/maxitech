@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/2f190678-e674-4103-8697-b4f0f43d60e2)
 
 <h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=08498B&background=0071FF00&vCenter=true&width=435&lines=Hi+there%2C+I'm+Max+%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=08498B&background=0071FF00&vCenter=true&width=435&lines=Hi+there%2C+I'm+Max+%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+Software+Engineer+🛠️" alt="Typing SVG" /></a>
 </h2>
 
 
