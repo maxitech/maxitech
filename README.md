@@ -3,8 +3,6 @@
 <h2>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=08498B&vCenter=true&width=700&lines=Hi+there%2C+I'm+Max+%F0%9F%91%8B;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Driven+by+innovation+%26+always+learning+%F0%9F%A7%A0" alt="Typing SVG" />
-<!--   https://readme-typing-svg.demolab.com/demo/?weight=700&size=25&duration=2000&color=08498B&vCenter=true&width=600&lines=Hi+there%2C+I'm+Max+%F0%9F%91%8B;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Driven+by+innovation+%26+always+learning+%F0%9F%A7%A0 -->
-<!--   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) -->
 </a>
 </h2>
 
